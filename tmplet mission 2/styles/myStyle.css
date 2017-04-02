@@ -1,0 +1,39 @@
+body 
+{
+    direction:rtl;
+    background-image:url(../image/20160429_121026.jpg);
+    background-size:1400px;
+    background-repeat:no-repeat;
+    
+ 
+}
+#container
+{
+  margin-top: 70px;
+   text-align : center;
+   font-size:24px;
+   color:white;
+   padding-top:15px;
+   padding-right:5px;
+}
+h1 {
+    
+    font-size : 70px;
+}
+
+#facebook {
+    background-image : url(../image/images.png);
+    background-position : center;
+    background-size : 60px;
+    display : inline-block;
+    height : 60px;
+    width : 60px;   
+}
+
+#facebook:hover {
+-moz-transform: scale(1.4);
+-webkit-transform: scale(1.4);
+-o-transform: scale(1.4);
+-ms-transform: scale(1.4);
+transform: scale(1.4);
+}
